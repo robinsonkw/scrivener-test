@@ -8,7 +8,7 @@
             <ItemID>62577AB8-E7EC-4606-84CA-C4C97FF46FAE</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>17F5F27C-58FE-430F-8AA1-5B97D778C815</ItemID>
+            <ItemID>0FCD2958-D40A-4304-878F-4D310726889B</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -62,12 +62,14 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>17F5F27C-58FE-430F-8AA1-5B97D778C815</ItemID>
+                    <ItemID>0FCD2958-D40A-4304-878F-4D310726889B</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="2">
+                <NavigationHistory CurrentIndex="4">
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">7E87CF72-CBE3-471D-9AF3-E331B1DC3434</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">62577AB8-E7EC-4606-84CA-C4C97FF46FAE</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">17F5F27C-58FE-430F-8AA1-5B97D778C815</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">62577AB8-E7EC-4606-84CA-C4C97FF46FAE</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0FCD2958-D40A-4304-878F-4D310726889B</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -75,7 +77,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>4,0</Selection>
+                <Selection>27,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
